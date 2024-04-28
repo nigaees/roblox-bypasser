@@ -1,11 +1,9 @@
-# Undetected Tool
-Made by pryncexes.
+# Internal Aimbot
+- shenn v2 is cool aimbot
 
-its detected and now its spams too slow
-# WARNING YOU CAN GET BAN FOR USING THIS, USE ON YOUR RISK!
+# Minuses?
+- detected sometimes.
 
-discord can log out you of your account, just use it on your risk!
-
-# CHANGES
-nothing new just updated name of the tool
-- and its detected lol
+# Pluses?
+- working and 50/50% is not detected
+- free aimbot better than celex, celestial, nezur and aimmy + not bannable
